@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/npm_and_yarn/fast-check-4.10.2",
+    "fix-5520-formdata-hang",
+    "fix/mock-async-data-rejection",
+    "fix/repeated-response-headers-5898",
+    "main",
+    "origin",
+    "submodules-update",
+    "v6.x"
+  ],
+  "parent": {
+    "dependabot/npm_and_yarn/fast-check-4.10.2": "main",
+    "fix-5520-formdata-hang": "main",
+    "fix/mock-async-data-rejection": "main",
+    "fix/repeated-response-headers-5898": "main",
+    "main": null,
+    "origin": "main",
+    "submodules-update": "main",
+    "v6.x": "main"
+  },
+  "order": [
+    "main",
+    "dependabot/npm_and_yarn/fast-check-4.10.2",
+    "fix-5520-formdata-hang",
+    "fix/mock-async-data-rejection",
+    "fix/repeated-response-headers-5898",
+    "origin",
+    "submodules-update",
+    "v6.x"
+  ]
+}
