@@ -45,7 +45,6 @@ typings/
 # Optional eslint cache
 .eslintcache
 
-temp_auto_push.bat
 # Optional REPL history
 .node_repl_history
 
@@ -67,6 +66,7 @@ yarn.lock
 
 # IDE files
 .idea
+.vscode
 
 *0x
 *clinic*
@@ -93,5 +93,3 @@ CLAUDE.md
 AGENTS.md
 .pi/
 .claude/
-.gitignore
-branch_structure.json
